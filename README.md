@@ -42,3 +42,6 @@ My automated and manual exploitation walkthroughs are categorized in my reposito
 *   🛠️ **[Pwn-Tools-Custom](./Pwn-Tools-Custom):** My personal collection of exploit templates, GDB scripts, and heap visualizers.
 
 ---
+### 🌐 Connect With Me
+
+* 👾 **Discord:** `Gantosay`
