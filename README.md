@@ -6,7 +6,7 @@ section .text
     global _start
 
 _start:
-    ; 8+ Years of CTF & Weaponized Exploit Development
+    ; 9+ Years of CTF & Weaponized Exploit Development
     mov rdi, [target_binary]
     call bypass_mitigations    ; ASLR/PIE, DEP/NX, Canary, CFG, CET
     call get_rip_control       ; Stack/Heap/Format-String primitives
