@@ -28,8 +28,8 @@ Focusing on low-level memory corruption and bypassing modern mitigations across 
 
 ```text
 [Languages]      --> C, Python, Rust, x86/64 ASM, ARM64 ASM, C++
-[Debug/Dynamic]  --> GDB + GEF/pwndbg, rr (Record and Replay), Frida, QEMU
-[Static/Reversing]--> IDA Pro, Ghidra (Custom Scripts & Extensions), Binary Ninja
+[Debug/Dynamic]  --> GDB + GEF/pwndbg, Objdump, rr (Record and Replay), Frida, QEMU
+[Static/Reversing]--> IDA Pro, Ghidra (Custom Scripts & Extensions), Rizin, Binary Ninja
 [Automation]     --> Pwntools, Angr (Symbolic Execution), Triton, Z3 Theorem Prover
 ```
 
