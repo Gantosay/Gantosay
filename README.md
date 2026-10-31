@@ -38,7 +38,7 @@ Focusing on low-level memory corruption and bypassing modern mitigations across 
 ### 🏆 CTF Pipeline & Write-ups
 My automated and manual exploitation walkthroughs are categorized in my repositories:
 
-*   🚀 **[CTF-Writeups](./CTF-Writeups):** High-quality walkthroughs focused on Heap Exploitation, Kernel Pwn, and complex Reverse Engineering challenges.
+*   🚀 **[CTF-Writeups](./https://github.com/Gantosay/CTF-Writeups/tree/main):** High-quality walkthroughs focused on Heap Exploitation, Kernel Pwn, and complex Reverse Engineering challenges.
 *   🛠️ **[Pwn-Tools-Custom](./Pwn-Tools-Custom):** My personal collection of exploit templates, GDB scripts, and heap visualizers.
 
 ---
