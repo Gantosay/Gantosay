@@ -27,7 +27,7 @@ Focusing on low-level memory corruption and bypassing modern mitigations across 
 ### 🧰 The Arsenal (Low-Level Stack)
 
 ```text
-[Languages]      --> C, Python, Rust, x86/64 ASM, ARM64 ASM, C++
+[Languages]      --> C,C++,  Python, Perl, Javascript, Bash, x86/64 ASM, ARM64 ASM,
 [Debug/Dynamic]  --> GDB + GEF/pwndbg, Objdump, rr (Record and Replay), Frida, QEMU
 [Static/Reversing]--> IDA Pro, Ghidra (Custom Scripts & Extensions), Rizin, Binary Ninja
 [Automation]     --> Pwntools, Angr (Symbolic Execution), Triton, Z3 Theorem Prover
