@@ -1,5 +1,10 @@
 ## Hi there 👋
-# 💀 Gantosay // Exploit Developer & Reverse Engineer
+# Gantosay 
+
+Security researcher focused on binary exploitation and reverse engineering.
+
+CTF player since 2016. Working in offensive security / vulnerability research
+for the past 9 years. RingZer0 Certified Elite Hacker (RCEH).
 
 ```assembly
 section .text
@@ -45,3 +50,12 @@ My automated and manual exploitation walkthroughs are categorized in my reposito
 ### 🌐 Connect With Me
 
 * 👾 **Discord:** `Gantosay`
+* 
+
+## Profiles
+
+- RingZer0 CTF: https://ringzer0ctf.com/profile/36961/Gantosay
+- Root-Me: https://www.root-me.org/Gantosay 
+- TryHackMe: https://tryhackme.com/p/Gantosay
+- HackTheBox: https://app.hackthebox.com/public/users/149336
+- BUUCTF: https://ctf2.dasctf.com/u/90e55335-7753-4a16-a5ba-c8fb54fed7fc
